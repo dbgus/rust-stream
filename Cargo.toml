@@ -1,0 +1,9 @@
+[package]
+name = "stream"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mp4 = "0.14.0"
+rocket = "0.5.1"
+bytes = "1.6.0"
